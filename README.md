@@ -1,16 +1,37 @@
-### Hi there 👋
-
-<!--
-**AnimaTed6422/AnimaTed6422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1 style="text-align: center;">Hi! I'm AnimaTed!</h1>
+<script src="https://code.iconify.design/2/2.1.2/iconify.min.js"></script>
 
 - 🔭 I’m currently working on ...
+Glint Of Hope Shell, A Shell Written in Java to Complete Basic File Operations, Notepad, A Windows Notepad Clone in Swing, Awt, and Batch, And TechAPedia, A Basic Article Website about Tech.
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+React Native, I'm Used to HTML, and I wanted to learn to make mobile apps
+
+# Languages
+
+Python
+
+Java
+
+HTML
+
+CSS
+
+JS
+
+Batch
+
+# Frameworks & Libraries
+
+Swing
+
+Awt
+
+# IDEs and Text Editors
+
+Visual Studio Code
+
+Sublime Text
+
+Intellij IDEA
+
+GlintCode - A Basic IDE I Made for iOS made in Apple Shortcuts
