@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Hi! I'm AnimaTed!</h1>
+<h1 align="center">Hi! I'm AnimaTed!</h1>
 
 - 🔭 I’m currently working on:
 
@@ -40,4 +40,4 @@ Sublime Text
 
 Intellij IDEA
 
-GlintCode - A Basic IDE I Made for iOS made in Apple Shortcuts
+GlintCode - An IDE for iOS I made With apple shortcuts, using the Piston API
