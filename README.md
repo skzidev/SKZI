@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on:
 
-Glint Of Hope Shell, A Shell Written in Java to Complete Basic File Operations, Notepad, A Windows Notepad Clone in Swing, Awt, and Batch, And TechAPedia, A Basic Article Website about Tech.
+Notepad, A Windows Notepad Clone in Swing, Awt, and Batch, And TechAPedia, A Basic Article Website about Tech.
 
 - 🌱 I’m currently learning:
 
