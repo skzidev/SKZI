@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm AnimaTed!</h1>
+<h1 align="center">anima.Ted()</h1>
 
 - **I’m currently working on:**
 
