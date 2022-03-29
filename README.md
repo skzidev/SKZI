@@ -1,4 +1,4 @@
-<h1 align="center">AnimaTed</h1>
+<h1 align="center"><b>{</b> AnimaTed <b>}</b></h1>
 <h3 align="center">- Programming -</h3>
 
 - **I’m currently working on:**
