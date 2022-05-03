@@ -1,14 +1,19 @@
-<h1 align="center"><b>{</b> AnimaTed <b>}</b></h1>
-<h3 align="center">- Programming -</h3>
+<p align="center">
+<img style="width: 25%;" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/89037615?s=400&u=6697f18e2b7aeed72979a460cab66abc55a7bf52&v=4?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d">
+ </p>
+<h1 align="center">/-\ |\| | |\/| /-\ ‾|‾ ☰ |)</h1>
+<h3 align="center">HTML, CSS, JS, Python, Java, and C# Programmer</h3>
 
 - **I’m currently working on:**
 
   - Notepad, A Windows Notepad Clone in Swing, Awt, and Batch,
   - TechAPedia, A Basic Article Website about Tech.
+  - A bunch of "Bored Projects", Basically just projects I did because I was bored.
 
 - **I’m currently learning:**
 
   - React Native, I'm Used to HTML, and I wanted to learn to make mobile apps
+  - Unity, I'm currently making a couple games.
 
 - **Fun Facts:**
 
@@ -43,4 +48,4 @@
 
 GlintCode - An IDE for iOS I made With apple shortcuts, using the <a href="https://github.com/engineer-man/piston">Piston API</a>
 
-Vim (me edition) - A quick Vim Clone I wrote in batch because I was bored :)
+Vim (me edition) - A quick Vim Clone I wrote in batch because I was bored.
