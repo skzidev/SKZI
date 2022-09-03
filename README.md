@@ -6,18 +6,12 @@
 
 - **I’m currently working on:**
 
-  - Notepad, A Windows Notepad Clone in Swing, Awt, and Batch,
   - TechAPedia, A Basic Article Website about Tech.
-  - A bunch of "Bored Projects", Basically just projects I did because I was bored.
 
 - **I’m currently learning:**
 
   - React Native, I'm Used to HTML, and I wanted to learn to make mobile apps
   - Unity, I'm currently making a couple games.
-
-- **Fun Facts:**
-
-  - I started learning Python, and then 2 years later, I started Learning HTML, CSS, JS, then Java, and Batch.
 
 # Languages
 
@@ -45,7 +39,3 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-
-GlintCode - An IDE for iOS I made With apple shortcuts, using the <a href="https://github.com/engineer-man/piston">Piston API</a>
-
-Vim (me edition) - A quick Vim Clone I wrote in batch because I was bored.
