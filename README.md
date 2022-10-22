@@ -1,5 +1,5 @@
 <p align="center">
-<img style="width: 25%;" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/89037615?s=400&u=6697f18e2b7aeed72979a460cab66abc55a7bf52&v=4?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d">
+<img style="width: 25%;" src="logo.png">
  </p>
 <h1 align="center">/-\ |\| | |\/| /-\ ‾|‾ ☰ |)</h1>
 <h3 align="center">HTML, CSS, JS, Python, Java, and C# Programmer</h3>
