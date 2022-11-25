@@ -2,7 +2,7 @@
 <img style="width: 25%;" src="logo.png">
  </p>
 <h1 align="center">/-\ |\| | |\/| /-\ ‾|‾ ☰ |)</h1>
-<h3 align="center">HTML, CSS, JS, Python, Java, and C# Programmer</h3>
+<h3 align="center">HTML, CSS, JS, Python, Java, C#, and C++ Programmer</h3>
 
 - **I’m currently working on:**
 
@@ -22,6 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 # Frameworks & Libraries
 
