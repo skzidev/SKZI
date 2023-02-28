@@ -1,7 +1,7 @@
 <p align="center">
 <img style="width: 25%;" src="logo.png">
  </p>
-<h1 align="center">/-\ |\| | |\/| /-\ ‾|‾ ☰ |)</h1>
+<h1 align="center">S K Z I</h1>
 <h3 align="center">HTML, CSS, JS, Python, Java, C#, and C++ Programmer</h3>
 
 - **I’m currently working on:**
@@ -15,7 +15,6 @@
 
 - **I'm the creator of:**
 
-  - [Gooble](https://gooblesearch.vercel.app)
   - [Furl](https://furl-fs.netlify.app)
 
 # Languages
