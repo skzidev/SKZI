@@ -1,5 +1,5 @@
 <p align="center">
-<img style="width: 25%;" src="logo.png">
+<img style="width: 25%;" src="https://skzi.pages.dev/logo.png">
  </p>
 <h1 align="center">S K Z I</h1>
 <h3 align="center">HTML, CSS, JS, Python, Java, C#, and C++ Programmer</h3>
